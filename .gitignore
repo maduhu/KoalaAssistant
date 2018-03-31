@@ -1,3 +1,5 @@
 *.swp
 *.rpm
 *.deb
+setup/
+setup/
